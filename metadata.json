@@ -1,0 +1,5 @@
+{
+  "name": "Openrouter JTBD Job Graph",
+  "description": "An intelligent system that decomposes high-level aspirational goals into a structured hierarchy of Jobs To Be Done (JTBD), from Super Big Jobs down to Micro Jobs, visualized as an interactive tree diagram.",
+  "requestFramePermissions": []
+}
